@@ -164,6 +164,34 @@ a:visited {
    margin-top: 14px;
  }
 
+ .bi-telephone-fill {
+   margin-right: 10px;
+   /* color: #325cfd; */
+ }
+
+ .bi-geo-alt-fill {
+   margin-right: 10px;
+   /* color: #325cfd; */
+ }
+
+ .bi-envelope-fill {
+   /* color: #325cfd; */
+   margin-right: 10px;
+
+ }
+
+ .bi-github {
+   /* color: #325cfd; */
+   margin-right: 10px;
+
+ }
+
+ .bi-telegram {
+   /* color: #325cfd; */
+   margin-right: 10px;
+
+ }
+
 .skills {
    list-style: none;
    padding: 0;
